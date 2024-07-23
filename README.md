@@ -1,4 +1,5 @@
-# docker
+# Author: vinod Kanwar
+#Roll No:G23AI2009
 
 
 # Dockerized Wordle Game
@@ -29,17 +30,19 @@ To run this project, you need to have the following installed:
 
 ### Running the Application on Gitpod
 
+Note- my system does not support docker due to some constrains hence i used Gitpod to create and run the docker.
+
 1. **Create a GitHub Repository**: Create a new GitHub repository and add the project files (`wordle.py`, `Dockerfile`, `requirements.txt`, and `docker-compose.yml`) to the repository.
 
 2. **Open the Repository in Gitpod**:
    - Go to [Gitpod](https://gitpod.io/) and start a new session.
-   - Open your repository in Gitpod by appending the GitHub repository URL to the Gitpod URL. For example:
+   - Open your repository in Gitpod by appending the GitHub repository URL to the Gitpod URL. 
      ```
     https://github.com/G23AI2009/docker/tree/main
      ```
 
 3. **Create the Necessary Files**:
-   - In the Gitpod editor, create and edit the following files with the provided content.
+   - In the Gitpod editor, create and edit the following files.
 
 4. **Build and run docker**
 
