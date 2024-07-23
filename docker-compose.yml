@@ -1,0 +1,8 @@
+version: '3'
+services:
+  wordle:
+    build: .
+    container_name: wordle_game
+    stdin_open: true
+    tty: true
+
